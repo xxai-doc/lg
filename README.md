@@ -7,3 +7,4 @@ Koodi y’omu maaso ey’omukutu guno ya nsibuko nzigule, mwaniriziddwa okuyamba
 * [koodi ey’omu maaso](https://github.com/xxai-art/web)
 * [Language packs for omukutu okutwaliza awamu](https://github.com/xxai-art/web/tree/main/i18n)
 * [Paka z'olulimi eza modulo z'okuyingira](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Omukutu gwa yintaneeti Ebiwandiiko by’ennimi nnyingi](https://github.com/xxai-doc)
