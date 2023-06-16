@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , yongera ku bimu ku bikozesebwa ku musingi gw'ensengeka ya coffeescript, laba [coffee_plus](./coffee_plus.md) .
 
-* okulangirira enkyukakyuka
+## okulangirira enkyukakyuka
 
 ```
 + var1, var2
 ```
 
-* akabonero k’okulangirira
+## akabonero k’okulangirira
 
 `:$` ya kukozesebwa ne [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* okuyingiza ebintu mu bwangu
+## okuyingiza ebintu mu bwangu
 
 ```
 > zx/globals:
